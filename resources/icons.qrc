@@ -1,0 +1,6 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file alias="plus_green">resources/plus_green.svg</file>
+    <file alias="minus_red">resources/minus_red.svg</file>
+</qresource>
+</RCC>
